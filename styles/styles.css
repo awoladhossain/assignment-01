@@ -1,7 +1,6 @@
 *{
     margin: 0;
 }
-
 header {
   background-image: url(../images/banner/banner3.png);
   background-repeat: no-repeat;
@@ -123,3 +122,4 @@ height: 45px;
 .pera a{
     text-decoration: none;
 }
+
