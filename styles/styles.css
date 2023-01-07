@@ -5,7 +5,7 @@ header {
   background-image: url(../images/banner/banner3.png);
   background-repeat: no-repeat;
   height: 100%;
-  padding: 300px;
+  padding: 450px;
 }
 .images {
   position: absolute;
@@ -28,7 +28,7 @@ header {
 }
 .second-part {
   display: flex;
-  margin-top: 250px;
+  margin-top: 150px;
   justify-content: space-between;
   margin-left: 100px;
   gap: 80px;
